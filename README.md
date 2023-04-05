@@ -1,4 +1,4 @@
-# Sqlalchemy-challenge
+# sqlalchemy-challenge
 
 In this activity, it was requested a database analysis and data exploration using Python, SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
