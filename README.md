@@ -4,16 +4,20 @@ In this activity, it was requested a database analysis and data exploration usin
 
 * The last 12 months of precipitation:
 
+
 ![precipitation](https://github.com/cami5326/sqlalchemy-challenge/blob/main/Climate%20Data/precipitation.PNG)
+
 
 
 
 * The most active station's temperature in the last 12 months:
 
+
 ![Temperature](https://github.com/cami5326/sqlalchemy-challenge/blob/main/Climate%20Data/Temperature.PNG)
 
+
 ## Design a Flask API App
-Designed a Flask API based on the queries developed above as follows:
+Designed a Flask API based on the queries developed above:
 
 1. Route **Homepage ("/"):**
 
