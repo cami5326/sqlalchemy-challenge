@@ -6,7 +6,9 @@ In this activity, it was requested a database analysis and data exploration usin
 
 ![precipitation](https://github.com/cami5326/sqlalchemy-challenge/blob/main/Climate%20Data/precipitation.PNG)
 
-* Temperature in the last 12 months of the most active station:
+
+
+* The most active station's temperature in the last 12 months:
 
 ![Temperature](https://github.com/cami5326/sqlalchemy-challenge/blob/main/Climate%20Data/Temperature.PNG)
 
